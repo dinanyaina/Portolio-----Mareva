@@ -1,0 +1,503 @@
+
+<!DOCTYPE html>
+<!--[if IE 9]> <html class="ie9 lt-ie10" lang="fr-FR"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="fr-FR"> <!--<![endif]-->
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127767932-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127767932-1');
+</script>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.cffb.be/xmlrpc.php">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Campagne sur la précarité menstruelle - CFFB</title>
+	<link rel="canonical" href="https://www.cffb.be/campagne-sur-la-precarite-menstruelle/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Campagne sur la précarité menstruelle - CFFB" />
+	<meta property="og:description" content="Dans le cadre de la mission « Assurer la sécurité menstruelle des femmes » confiée au Conseil des [&hellip;]" />
+	<meta property="og:url" content="https://www.cffb.be/campagne-sur-la-precarite-menstruelle/" />
+	<meta property="og:site_name" content="CFFB" />
+	<meta property="article:publisher" content="https://www.facebook.com/Conseil-Des-Femmes-Cffb-423042767846824/" />
+	<meta property="article:published_time" content="2021-06-24T18:04:45+00:00" />
+	<meta property="article:modified_time" content="2021-06-30T08:49:32+00:00" />
+	<meta property="og:image" content="https://www.cffb.be/wp-content/uploads/2021/06/Bannière-pour-Site-web-.png" />
+	<meta property="og:image:width" content="1920" />
+	<meta property="og:image:height" content="900" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="author" content="Coordinatrice" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@CFFB1" />
+	<meta name="twitter:site" content="@CFFB1" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.cffb.be/campagne-sur-la-precarite-menstruelle/#article","isPartOf":{"@id":"https://www.cffb.be/campagne-sur-la-precarite-menstruelle/"},"author":{"name":"Coordinatrice","@id":"https://www.cffb.be/#/schema/person/49270460a54e7b20aa1203b58e6be26b"},"headline":"Campagne sur la précarité menstruelle","datePublished":"2021-06-24T18:04:45+00:00","dateModified":"2021-06-30T08:49:32+00:00","mainEntityOfPage":{"@id":"https://www.cffb.be/campagne-sur-la-precarite-menstruelle/"},"wordCount":214,"publisher":{"@id":"https://www.cffb.be/#organization"},"image":{"@id":"https://www.cffb.be/campagne-sur-la-precarite-menstruelle/#primaryimage"},"thumbnailUrl":"https://www.cffb.be/wp-content/uploads/2021/06/Bannière-pour-Site-web-.png","keywords":["campagne","droit des femmes","féminisme","Femmes","précarité","précarité menstruelle"],"articleSection":["Nos campagnes"],"inLanguage":"fr-FR"},{"@type":"WebPage","@id":"https://www.cffb.be/campagne-sur-la-precarite-menstruelle/","url":"https://www.cffb.be/campagne-sur-la-precarite-menstruelle/","name":"Campagne sur la précarité menstruelle - CFFB","isPartOf":{"@id":"https://www.cffb.be/#website"},"primaryImageOfPage":{"@id":"https://www.cffb.be/campagne-sur-la-precarite-menstruelle/#primaryimage"},"image":{"@id":"https://www.cffb.be/campagne-sur-la-precarite-menstruelle/#primaryimage"},"thumbnailUrl":"https://www.cffb.be/wp-content/uploads/2021/06/Bannière-pour-Site-web-.png","datePublished":"2021-06-24T18:04:45+00:00","dateModified":"2021-06-30T08:49:32+00:00","breadcrumb":{"@id":"https://www.cffb.be/campagne-sur-la-precarite-menstruelle/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://www.cffb.be/campagne-sur-la-precarite-menstruelle/"]}]},{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://www.cffb.be/campagne-sur-la-precarite-menstruelle/#primaryimage","url":"https://www.cffb.be/wp-content/uploads/2021/06/Bannière-pour-Site-web-.png","contentUrl":"https://www.cffb.be/wp-content/uploads/2021/06/Bannière-pour-Site-web-.png","width":1920,"height":900},{"@type":"BreadcrumbList","@id":"https://www.cffb.be/campagne-sur-la-precarite-menstruelle/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://www.cffb.be/"},{"@type":"ListItem","position":2,"name":"Campagne sur la précarité menstruelle"}]},{"@type":"WebSite","@id":"https://www.cffb.be/#website","url":"https://www.cffb.be/","name":"CFFB","description":"Conseil des Femmes Francophones de Belgique","publisher":{"@id":"https://www.cffb.be/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.cffb.be/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fr-FR"},{"@type":"Organization","@id":"https://www.cffb.be/#organization","name":"CFFB","url":"https://www.cffb.be/","logo":{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://www.cffb.be/#/schema/logo/image/","url":"https://www.cffb.be/wp-content/uploads/2018/10/cropped-logo-cffb-big.jpg","contentUrl":"https://www.cffb.be/wp-content/uploads/2018/10/cropped-logo-cffb-big.jpg","width":1000,"height":459,"caption":"CFFB"},"image":{"@id":"https://www.cffb.be/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/Conseil-Des-Femmes-Cffb-423042767846824/","https://twitter.com/CFFB1"]},{"@type":"Person","@id":"https://www.cffb.be/#/schema/person/49270460a54e7b20aa1203b58e6be26b","name":"Coordinatrice","image":{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://www.cffb.be/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/2e31cd632f25b02e52ab643e6a184697?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/2e31cd632f25b02e52ab643e6a184697?s=96&d=mm&r=g","caption":"Coordinatrice"},"url":"https://www.cffb.be/author/monique/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="CFFB &raquo; Flux" href="https://www.cffb.be/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CFFB &raquo; Flux des commentaires" href="https://www.cffb.be/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="CFFB &raquo; Flux iCal" href="https://www.cffb.be/events/?ical=1" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.cffb.be\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='apss-font-awesome-four-css'  href='https://www.cffb.be/wp-content/plugins/accesspress-social-share/css/font-awesome.min.css?ver=4.5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='apss-frontend-css-css'  href='https://www.cffb.be/wp-content/plugins/accesspress-social-share/css/frontend.css?ver=4.5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='apss-font-opensans-css'  href='//fonts.googleapis.com/css?family=Open+Sans&#038;ver=6.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.cffb.be/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='foobox-free-min-css'  href='https://www.cffb.be/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=2.7.25' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://www.cffb.be/wp-content/themes/silk-lite/style.css?ver=6.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://www.cffb.be/wp-content/themes/silk-lite/assets/css/font-awesome.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='silklite-fonts-css'  href='//fonts.googleapis.com/css?family=Libre%20Baskerville%3A400%2C700%2C400italic%7CPlayfair%20Display%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMerriweather%3A400italic%2C400%2C300%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='silklite-style-css'  href='https://www.cffb.be/wp-content/themes/cffb/style.css?ver=1.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='newsletter-css'  href='https://www.cffb.be/wp-content/plugins/newsletter/style.css?ver=7.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='https://www.cffb.be/wp-content/plugins/cookie-notice/css/front.min.css?ver=6.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bfa-font-awesome-css'  href='https://use.fontawesome.com/releases/v5.15.4/css/all.css?ver=2.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bfa-font-awesome-v4-shim-css'  href='https://use.fontawesome.com/releases/v5.15.4/css/v4-shims.css?ver=2.0.3' type='text/css' media='all' />
+<style id='bfa-font-awesome-v4-shim-inline-css' type='text/css'>
+
+			@font-face {
+				font-family: 'FontAwesome';
+				src: url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot?#iefix') format('embedded-opentype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff2') format('woff2'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff') format('woff'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.ttf') format('truetype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.svg#fontawesome') format('svg');
+			}
+
+			@font-face {
+				font-family: 'FontAwesome';
+				src: url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot?#iefix') format('embedded-opentype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff2') format('woff2'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff') format('woff'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.ttf') format('truetype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.svg#fontawesome') format('svg');
+			}
+
+			@font-face {
+				font-family: 'FontAwesome';
+				src: url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot?#iefix') format('embedded-opentype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff2') format('woff2'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff') format('woff'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.ttf') format('truetype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.svg#fontawesome') format('svg');
+				unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F057-F059,U+F06E,U+F070,U+F075,U+F07B-F07C,U+F080,U+F086,U+F089,U+F094,U+F09D,U+F0A0,U+F0A4-F0A7,U+F0C5,U+F0C7-F0C8,U+F0E0,U+F0EB,U+F0F3,U+F0F8,U+F0FE,U+F111,U+F118-F11A,U+F11C,U+F133,U+F144,U+F146,U+F14A,U+F14D-F14E,U+F150-F152,U+F15B-F15C,U+F164-F165,U+F185-F186,U+F191-F192,U+F1AD,U+F1C1-F1C9,U+F1CD,U+F1D8,U+F1E3,U+F1EA,U+F1F6,U+F1F9,U+F20A,U+F247-F249,U+F24D,U+F254-F25B,U+F25D,U+F267,U+F271-F274,U+F279,U+F28B,U+F28D,U+F2B5-F2B6,U+F2B9,U+F2BB,U+F2BD,U+F2C1-F2C2,U+F2D0,U+F2D2,U+F2DC,U+F2ED,U+F328,U+F358-F35B,U+F3A5,U+F3D1,U+F410,U+F4AD;
+			}
+		
+</style>
+<script type='text/javascript' src='https://www.cffb.be/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.cffb.be/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='foobox-free-min-js-before'>
+/* Run FooBox FREE (v2.7.25) */
+var FOOBOX = window.FOOBOX = {
+	ready: true,
+	disableOthers: false,
+	o: {wordpress: { enabled: true }, countMessage:'image %index sur %total', captions: { dataTitle: ["captionTitle","title"], dataDesc: ["captionDesc","description"] }, excludes:'.fbx-link,.nofoobox,.nolightbox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }, error: "Impossible de charger l’élément"},
+	selectors: [
+		".foogallery-container.foogallery-lightbox-foobox", ".foogallery-container.foogallery-lightbox-foobox-free", ".gallery", ".wp-block-gallery", ".wp-caption", ".wp-block-image", "a:has(img[class*=wp-image-])", ".foobox"
+	],
+	pre: function( $ ){
+		// Custom JavaScript (Pre)
+		
+	},
+	post: function( $ ){
+		// Custom JavaScript (Post)
+		
+		// Custom Captions Code
+		
+	},
+	custom: function( $ ){
+		// Custom Extra JS
+		
+	}
+};
+</script>
+<script type='text/javascript' src='https://www.cffb.be/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=2.7.25' id='foobox-free-min-js'></script>
+<link rel="https://api.w.org/" href="https://www.cffb.be/wp-json/" /><link rel="alternate" type="application/json" href="https://www.cffb.be/wp-json/wp/v2/posts/4368" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.cffb.be/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.cffb.be/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.3" />
+<link rel='shortlink' href='https://www.cffb.be/?p=4368' />
+		<!-- Custom Logo: hide header text -->
+		<style id="custom-logo-css" type="text/css">
+			.site-title, .site-description-text {
+				position: absolute;
+				clip: rect(1px, 1px, 1px, 1px);
+			}
+		</style>
+		<link rel="alternate" type="application/json+oembed" href="https://www.cffb.be/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cffb.be%2Fcampagne-sur-la-precarite-menstruelle%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.cffb.be/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cffb.be%2Fcampagne-sur-la-precarite-menstruelle%2F&#038;format=xml" />
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href='https://fonts.googleapis.com/css2?display=swap&family=ABeeZee' rel='stylesheet'><meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://www.cffb.be"><link rel="alternate" href="https://www.cffb.be/wp-json/tribe/events/v1/" /><link rel="icon" href="https://www.cffb.be/wp-content/uploads/2019/09/cropped-69641975_1343798809104544_6492777562593296384_o-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.cffb.be/wp-content/uploads/2019/09/cropped-69641975_1343798809104544_6492777562593296384_o-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.cffb.be/wp-content/uploads/2019/09/cropped-69641975_1343798809104544_6492777562593296384_o-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://www.cffb.be/wp-content/uploads/2019/09/cropped-69641975_1343798809104544_6492777562593296384_o-1-270x270.jpg" />
+	<style id="egf-frontend-styles" type="text/css">
+		h1 {font-family: 'ABeeZee', sans-serif;font-style: normal;font-weight: 400;line-height: 0.9;} h2 {font-family: 'ABeeZee', sans-serif;font-style: normal;font-weight: 400;margin-bottom: 17px;} h3 {font-family: 'ABeeZee', sans-serif;font-style: normal;font-weight: 400;} h4 {font-family: 'ABeeZee', sans-serif;font-style: normal;font-weight: 400;} h2.entry-title  a {font-family: 'ABeeZee', sans-serif;font-style: normal;font-weight: 400;line-height: 0.8;} p {} h5 {} h6 {} 	</style>
+	</head>
+
+<body class="post-template-default single single-post postid-4368 single-format-standard wp-custom-logo tribe-no-js group-blog has_sidebar cookies-not-set">
+
+
+<div id="page" class="hfeed site archive-layout--masonry">
+	<a class="skip-link screen-reader-text" href="#content">Aller au contenu</a>
+
+	<div class="top-bar  top-bar--fixed">
+	<div class="content">
+		<nav id="top-header-left-navigation" class="toolbar-navigation  left" role="navigation">
+			<h2 class="screen-reader-text">Navigation secondaire de gauche</h2>
+							<ul class="nav  nav--toolbar">
+					<li class="menu-item  nav__item--search"><button class="js-search-trigger">Rechercher</button></li>
+				</ul>
+			<ul id="menu-top-gauche" class="nav  nav--toolbar  nav--toolbar--left"><li id="menu-item-721" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-721"><a href="https://www.cffb.be/liens/">Liens</a></li>
+<li id="menu-item-720" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-720"><a href="https://www.cffb.be/contact/">Contact</a></li>
+</ul>		</nav><!-- #top-header-left-navigation -->
+		<nav id="top-header-right-navigation" class="toolbar-navigation  right" role="navigation">
+			<h2 class="screen-reader-text">Navigation secondaire de droite</h2>
+			<ul id="menu-top-droit" class="nav  nav--toolbar  nav--toolbar--right  right"><li id="menu-item-722" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-722"><a href="https://www.facebook.com/Conseil-Des-Femmes-Cffb-423042767846824/">Facebook</a></li>
+<li id="menu-item-723" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-723"><a href="https://twitter.com/CFFB_asbl">Twitter</a></li>
+<li id="menu-item-2242" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2242"><a href="https://www.instagram.com/conseildesfemmes/">Instagram</a></li>
+<li id="menu-item-3343" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3343"><a href="https://www.linkedin.com/company/conseil-des-femmes-francophones-de-belgique">LinkedIn</a></li>
+</ul>		</nav><!-- #top-header-right-navigation -->
+	</div><!-- .content -->
+</div><!-- .top-bar -->
+	<header id="masthead" class="site-header" role="banner">
+
+		<div class="site-branding">
+			<a href="https://www.cffb.be/" class="custom-logo-link" rel="home"><img width="1000" height="459" src="https://www.cffb.be/wp-content/uploads/2018/10/cropped-logo-cffb-big.jpg" class="custom-logo" alt="CFFB" srcset="https://www.cffb.be/wp-content/uploads/2018/10/cropped-logo-cffb-big.jpg 1000w, https://www.cffb.be/wp-content/uploads/2018/10/cropped-logo-cffb-big-300x138.jpg 300w, https://www.cffb.be/wp-content/uploads/2018/10/cropped-logo-cffb-big-768x353.jpg 768w, https://www.cffb.be/wp-content/uploads/2018/10/cropped-logo-cffb-big-450x207.jpg 450w, https://www.cffb.be/wp-content/uploads/2018/10/cropped-logo-cffb-big-850x390.jpg 850w" sizes="(max-width: 739px) 94vw, (max-width: 969px) 88vw, (max-width: 1199px) 860px, 850px" /></a>
+			<div class="site-title">
+			<a href="https://www.cffb.be/" rel="home">
+				<span>CFFB</span>
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+					<text x="50%" y="0.82em" stroke="#fff" text-anchor="middle" stroke-width="3">
+						CFFB
+					</text>
+				</svg>
+			</a>
+
+			</div>
+			
+				<p class="site-description">
+					<span class="site-description-text">Conseil des Femmes Francophones de Belgique</span>
+					<span class="site-description-after" role="presentation"></span>
+				</p>
+
+					</div><!-- .site-branding -->
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<button class="button-toggle  js-nav-trigger" aria-controls="menu-primary-menu" aria-expanded="false">
+				<span class="nav-icon icon--lines"></span>
+				<span class="button-text  assistive-text">Menu principal</span>
+			</button>
+			<ul id="menu-primary-menu" class="nav  nav--main  js-nav--main" aria-hidden="false"><li id="menu-item-3565" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3565"><a href="https://www.cffb.be/">Accueil</a></li>
+<li id="menu-item-3377" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3377"><a href="https://www.cffb.be/category/qui-sommes-nous/">Qui sommes-nous?</a>
+<ul class="sub-menu">
+	<li id="menu-item-838" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-838"><a href="https://www.cffb.be/historique/">Présentation et historique</a></li>
+	<li id="menu-item-855" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-855"><a href="https://www.cffb.be/conseil-dadministration-2010-2012/">Organe d’administration (2022-2024)</a></li>
+	<li id="menu-item-3386" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-3386"><a href="https://www.cffb.be/equipe-du-cffb/">Equipe du CFFB</a></li>
+	<li id="menu-item-854" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-854"><a href="https://www.cffb.be/sections-locales-en-2010/">Sections locales</a></li>
+	<li id="menu-item-857" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-857"><a href="https://www.cffb.be/commissions/">Commissions de travail</a></li>
+	<li id="menu-item-840" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-840"><a href="https://www.cffb.be/associations-membres/">Associations membres</a></li>
+</ul>
+</li>
+<li id="menu-item-3387" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-has-children menu-item-3387"><a href="https://www.cffb.be/category/nos-actions/">Nos actions</a>
+<ul class="sub-menu">
+	<li id="menu-item-3467" class="menu-item menu-item-type-taxonomy menu-item-object-tribe_events_cat menu-item-3467"><a href="https://www.cffb.be/events/categorie/calendrier/">Calendrier</a></li>
+	<li id="menu-item-3301" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-3301"><a href="https://www.cffb.be/category/nos-actions/nos-campagnes/">Nos campagnes</a></li>
+	<li id="menu-item-3610" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3610"><a href="https://www.cffb.be/category/nos-actions/evenements/">Événements</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3615" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3615"><a href="https://www.cffb.be/category/nos-actions/evenements/actions-internationales/">Actions internationales</a></li>
+		<li id="menu-item-3616" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3616"><a href="https://www.cffb.be/category/nos-actions/evenements/condtions-socio-economiques/">Conditions socio-économiques</a></li>
+		<li id="menu-item-3617" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3617"><a href="https://www.cffb.be/category/nos-actions/evenements/enseignement/">Enseignement</a></li>
+		<li id="menu-item-3618" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3618"><a href="https://www.cffb.be/category/nos-actions/evenements/representativite/">Représentativité</a></li>
+		<li id="menu-item-3619" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3619"><a href="https://www.cffb.be/category/nos-actions/evenements/stereotypes-et-sexisme/">Stéréotypes et sexisme</a></li>
+		<li id="menu-item-3620" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3620"><a href="https://www.cffb.be/category/nos-actions/evenements/violence-et-prostitution/">Violence et prostitution</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3389" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3389"><a href="https://www.cffb.be/category/nos-actions/club-de-lecture-feministe/">Club de lecture féministe</a></li>
+	<li id="menu-item-3300" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3300"><a href="https://www.cffb.be/category/nos-actions/universite-dautomne/">Universités d&rsquo;Automne</a></li>
+	<li id="menu-item-3390" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3390"><a href="https://www.cffb.be/category/nos-actions/galerie/">Galerie</a></li>
+</ul>
+</li>
+<li id="menu-item-3404" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3404"><a href="https://www.cffb.be/category/productions/">Productions</a>
+<ul class="sub-menu">
+	<li id="menu-item-783" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-783"><a href="https://www.cffb.be/category/productions/articles-dossiers/">Articles et Dossiers</a></li>
+	<li id="menu-item-3426" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3426"><a href="https://www.cffb.be/category/productions/communiques/">Communiqués</a></li>
+	<li id="menu-item-787" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-787"><a href="https://www.cffb.be/category/productions/memorandum-avis/">Mémorandum et avis</a></li>
+	<li id="menu-item-848" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-848"><a href="https://www.cffb.be/category/productions/le-cffb-dans-la-presse/">Le CFFB dans la presse</a></li>
+	<li id="menu-item-3599" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-3599"><a href="https://www.cffb.be/nos-livres-et-brochures-a-votre-disposition/">Livres et Brochures</a></li>
+	<li id="menu-item-3407" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-3407"><a href="https://www.cffb.be/nos-goodies/">Pin&rsquo;s, sacs en toiles, flyers&#8230;</a></li>
+	<li id="menu-item-745" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-745"><a href="https://www.cffb.be/telechargements/">Rapports d&rsquo;activités</a></li>
+</ul>
+</li>
+<li id="menu-item-3414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-3414"><a href="https://www.cffb.be/category/comment-sinvestir-au-cffb/">S&rsquo;investir au CFFB</a>
+<ul class="sub-menu">
+	<li id="menu-item-3419" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-3419"><a href="https://www.cffb.be/devenez-membre/">Devenir membre</a></li>
+	<li id="menu-item-3418" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-3418"><a href="https://www.cffb.be/faire-un-don/">Faire un don</a></li>
+	<li id="menu-item-3415" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-3415"><a href="https://www.cffb.be/job/">Job</a></li>
+	<li id="menu-item-3416" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-3416"><a href="https://www.cffb.be/stage/">Stage</a></li>
+	<li id="menu-item-3417" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-3417"><a href="https://www.cffb.be/benevolat/">Bénévolat</a></li>
+</ul>
+</li>
+</ul>			<a href="#search" class="button-toggle  button-toggle--search">
+				<span class="button-icon"><i class="fa fa-search"></i></span>
+				<span class="button-text  assistive-text">Rerchercher</span>
+			</a>
+		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+
+		<main id="main" class="site-main  site-main--single" role="main">
+
+		
+<article id="post-4368" class="post-4368 post type-post status-publish format-standard has-post-thumbnail hentry category-nos-campagnes tag-campagne tag-droit-des-femmes tag-feminisme tag-femmes tag-precarite tag-precarite-menstruelle">
+	<header class="entry-header">
+		<div class="entry-meta">
+
+			<span class="posted-on"><a href="https://www.cffb.be/campagne-sur-la-precarite-menstruelle/" rel="bookmark"><time class="entry-date published" datetime="2021-06-24T20:04:45+02:00">24 juin 2021</time></a></span><span class="cat-links"><a href="https://www.cffb.be/category/nos-actions/nos-campagnes/" rel="category tag">Nos campagnes</a></span>
+		</div><!-- .entry-meta -->
+
+		<h1 class="entry-title  page-title">Campagne sur la précarité menstruelle</h1>
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+
+					<div class="entry-featured  entry-thumbnail">
+				<img width="1024" height="480" src="https://www.cffb.be/wp-content/uploads/2021/06/Bannière-pour-Site-web--1024x480.png" class="attachment-silklite-single-image size-silklite-single-image wp-post-image" alt="" srcset="https://www.cffb.be/wp-content/uploads/2021/06/Bannière-pour-Site-web--1024x480.png 1024w, https://www.cffb.be/wp-content/uploads/2021/06/Bannière-pour-Site-web--300x141.png 300w, https://www.cffb.be/wp-content/uploads/2021/06/Bannière-pour-Site-web--768x360.png 768w, https://www.cffb.be/wp-content/uploads/2021/06/Bannière-pour-Site-web--1536x720.png 1536w, https://www.cffb.be/wp-content/uploads/2021/06/Bannière-pour-Site-web--450x211.png 450w, https://www.cffb.be/wp-content/uploads/2021/06/Bannière-pour-Site-web--850x398.png 850w, https://www.cffb.be/wp-content/uploads/2021/06/Bannière-pour-Site-web--1000x469.png 1000w, https://www.cffb.be/wp-content/uploads/2021/06/Bannière-pour-Site-web-.png 1920w" sizes="(max-width: 739px) 94vw, (max-width: 969px) 88vw, (max-width: 1199px) 860px, 850px" />			</div>
+		<p><span style="font-weight: 400;">Dans le cadre de la mission «</span><i><span style="font-weight: 400;"> Assurer la sécurité menstruelle des femmes</span></i><span style="font-weight: 400;"> » confiée au</span><a href="https://www.cffb.be/"><span style="font-weight: 400;"> Conseil des Femmes Francophones de Belgique</span></a><span style="font-weight: 400;"> (CFFB) par Madame la Ministre Karine Lalieux, </span><a href="https://synergie-wallonie.org/le-conseil-dadministration/"><span style="font-weight: 400;">Synergie Wallonie pour l’Égalité entre les femmes et les hommes asbl</span></a><span style="font-weight: 400;"> organise, en partenariat avec le CFFB </span><b>une enquête sur la précarité menstruelle.</b></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Celle-ci s’adresse à </span><span style="font-weight: 400;">toutes les personnes qui ont déjà eu, ont, ou auront bientôt leurs menstrues (règles)</span><span style="font-weight: 400;"> et a pour but d’identifier : </span></p>
+<ul>
+<li><span style="font-weight: 400;">Les besoins en produits périodiques de ces personnes ;</span></li>
+<li><span style="font-weight: 400;">Les besoins de sensibilisation (à la précarité menstruelle, tabous sur les règles, cycle menstruel, protections périodiques) de ces personnes ;</span></li>
+<li><span style="font-weight: 400;">Les besoins et actions déjà menées par les associations et organismes de terrain. </span></li>
+</ul>
+<p><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">Cette enquête se tiendra <strong>du 21 juin 2021 au 15 octobre 2021</strong>. Vous trouverez ci-dessous les liens vers les </span><span style="font-weight: 400;">3 questionnaires :</span></p>
+<ol>
+<li><span style="font-weight: 400;">     Questionnaire #1 </span><span style="color: #993366;"><b>pour les 12-18 ans</b></span><span style="font-weight: 400;"> : </span><a href="https://fr.surveymonkey.com/r/precaritemenstruelle1"><span style="font-weight: 400;">https://fr.surveymonkey.com/r/precaritemenstruelle1</span></a></li>
+<li><span style="font-weight: 400;">     Questionnaire #</span><b>2 <span style="color: #993366;">pour les 19 &#8211; 50 ans et plus</span></b><span style="font-weight: 400;"> : </span><a href="https://fr.surveymonkey.com/r/precaritemenstruelle2"><span style="font-weight: 400;">https://fr.surveymonkey.com/r/precaritemenstruelle2</span></a></li>
+<li><span style="font-weight: 400;">     Questionnaire #3 </span><span style="color: #993366;"><b>pour les Associations et Organismes de terrain</b></span><span style="font-weight: 400;"> : </span><a href="https://fr.surveymonkey.com/r/precaritemenstruelle3"><span style="font-weight: 400;">https://fr.surveymonkey.com/r/precaritemenstruelle3</span></a></li>
+</ol>
+<p>&nbsp;</p>
+<p><em>Pour plus d&rsquo;informations sur l&rsquo;enquête, écrivez-nous à l&rsquo;adresse securitemenstruelle@gmail.com ou à la personne de référence, Delphine Rochus, à l&rsquo;adresse chargeedeprojets@cffb.be </em></p>
+<p><img loading="lazy" class="aligncenter wp-image-4373 size-full" src="https://www.cffb.be/wp-content/uploads/2021/06/affiche.png" alt="" width="610" height="791" srcset="https://www.cffb.be/wp-content/uploads/2021/06/affiche.png 610w, https://www.cffb.be/wp-content/uploads/2021/06/affiche-231x300.png 231w, https://www.cffb.be/wp-content/uploads/2021/06/affiche-450x584.png 450w, https://www.cffb.be/wp-content/uploads/2021/06/affiche-386x500.png 386w" sizes="(max-width: 610px) 94vw, 610px" /></p>
+<p>&nbsp;</p>
+<div class='apss-social-share apss-theme-4 clearfix ' >
+					<div class='apss-facebook apss-single-icon'>
+						<a rel='nofollow'  title="Share on Facebook" target='_blank' href='https://www.facebook.com/sharer/sharer.php?u=https://www.cffb.be/campagne-sur-la-precarite-menstruelle/'>
+							<div class='apss-icon-block clearfix'>
+								<i class='fab fa-facebook-f'></i>
+								<span class='apss-social-text'>Share on Facebook</span>
+								<span class='apss-share'>Share</span>
+							</div>
+													</a>
+					</div>
+								<div class='apss-twitter apss-single-icon'>
+					<a rel='nofollow'  href="https://twitter.com/intent/tweet?text=Campagne%20sur%20la%20pr%C3%A9carit%C3%A9%20menstruelle&#038;url=https://www.cffb.be/campagne-sur-la-precarite-menstruelle/&#038;"  title="Share on Twitter" target='_blank'>
+						<div class='apss-icon-block clearfix'>
+							<i class='fab fa-twitter'></i>
+							<span class='apss-social-text'>Share on Twitter</span><span class='apss-share'>Tweet</span>
+						</div>
+											</a>
+				</div>
+								<div class='apss-linkedin apss-single-icon'>
+					<a rel='nofollow'  title="Share on LinkedIn" target='_blank' href='http://www.linkedin.com/sharing/share-offsite/?url=https://www.cffb.be/campagne-sur-la-precarite-menstruelle/'>
+						<div class='apss-icon-block clearfix'><i class='fab fa-linkedin'></i>
+							<span class='apss-social-text'>Share on LinkedIn</span>
+							<span class='apss-share'>Share</span>
+						</div>
+					</a>
+				</div>
+				</div>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="separator-wrapper--accent" role="presentation">
+			<svg width="196" height="9" xmlns="http://www.w3.org/2000/svg"><g fill="none" stroke="currentColor"><path class="square square-middle" d="M92.7574 4.5l4.5-4.5 4.5 4.5-4.5 4.5-4.5-4.5z"/><path class="square square-left" d="M83.7574 4.5l4.5-4.5 4.5 4.5-4.5 4.5-4.5-4.5z"/><path class="square square-right" d="M101.7574 4.5l4.5-4.5 4.5 4.5-4.5 4.5-4.5-4.5z"/><path class="line line-left" d="M0 4.5h83.2563" stroke-linecap="square"/><path class="line line-right" d="M111 4.5h83.26" stroke-linecap="square"/></g></svg>
+		</span>
+
+		<span class="cat-links">Posted in <a href="https://www.cffb.be/category/nos-actions/nos-campagnes/" rel="category tag">Nos campagnes</a></span><span class="tags-links"> and tagged with <a href="https://www.cffb.be/tag/campagne/" rel="tag">campagne</a>, <a href="https://www.cffb.be/tag/droit-des-femmes/" rel="tag">droit des femmes</a>, <a href="https://www.cffb.be/tag/feminisme/" rel="tag">féminisme</a>, <a href="https://www.cffb.be/tag/femmes/" rel="tag">Femmes</a>, <a href="https://www.cffb.be/tag/precarite/" rel="tag">précarité</a>, <a href="https://www.cffb.be/tag/precarite-menstruelle/" rel="tag">précarité menstruelle</a></span>.
+	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+		<nav class="navigation post-navigation" role="navigation">
+			<h2 class="screen-reader-text">Navigation d&#039;article</h2>
+			<div class="article-navigation">
+				<span class="navigation-item  navigation-item--previous"><a href="https://www.cffb.be/proces-carine-gilsoul-a-liege-un-cas-emblematique-du-continuum-des-violences-dans-un-parcours-de-vie-de-femme/" rel="prev"><span class="arrow"></span>
+	                        <span class="navigation-item__content">
+	                            <span class="navigation-item__wrapper">
+                                    <span class="post-thumb"></span>
+	                                <span class="post-info">
+	                                    <span class="navigation-item__name">Préc.</span>
+		                                <span class="post-meta">
+		                                <time class="entry-date published" datetime="2021-06-24T14:05:18+02:00">24 juin 2021</time>
+		                                <span class="post-category">Actualités</span>
+		                                </span>
+		                                <h3 class="post-title">itle</h3>
+	                                </span>
+	                            </span>
+	                        </span></a></span><span class="navigation-item  navigation-item--next"><a href="https://www.cffb.be/abortion-right-appel-a-temoignages/" rel="next"><span class="arrow"></span>
+	                         <span class="navigation-item__content">
+	                            <span class="navigation-item__wrapper  flexbox">
+                                    <span class="post-thumb"><img width="64" height="90" src="https://www.cffb.be/wp-content/uploads/2021/06/20210628_Affiche-IVG-FR-pdf.jpg" class="attachment-silklite-tiny-image size-silklite-tiny-image wp-post-image" alt="" loading="lazy" sizes="(max-width: 739px) 94vw, (max-width: 969px) 88vw, (max-width: 1199px) 860px, 850px" /></span>
+	                                <span class="post-info">
+	                                    <span class="navigation-item__name">Prochaine</span>
+		                                <span class="post-meta">
+		                                <time class="entry-date published updated" datetime="2021-06-29T16:31:32+02:00">29 juin 2021</time>
+		                                <span class="post-category">Actualités</span>
+		                                </span>
+		                                <h3 class="post-title">itle</h3>
+	                                </span>
+	                            </span>
+	                        </span></a></span>
+		</nav><!-- .navigation -->
+
+		
+		</main><!-- #main -->
+
+	</div><!-- #primary -->
+
+
+<div id="secondary" class="sidebar  sidebar--main" role="complementary">
+	<div class="grid__item"><aside id="text-2" class="widget widget_text">			<div class="textwidget"><div><span style="font-size: small;">Le Conseil des Femmes Francophones de Belgique (CFFB) est une association<br />
+coupole d&rsquo;une cinquantaine d&rsquo;organisations de femmes et de membres individuelles. </span></div>
+<div><span style="font-size: small;">Créé en 1905, le CFFB est pluraliste, interculturel et intergénérationnel et travaille principalement sur base<br />
+volontaire et bénévole. </span></div>
+<div><span style="font-size: small;">Envie d&rsquo;en savoir plus ? Cliquez <a href="https://www.cffb.be/category/qui-sommes-nous/?customize_changeset_uuid=ee08ddd3-38d8-4435-82ce-5af99f7f4419">ici</a>.</span></div>
+</div>
+		</aside></div><div class="grid__item"><aside id="text-4" class="widget widget_text">			<div class="textwidget"><p>Le CFFB vous propose des <strong>revues de presse féministe</strong>. Découvrez-les en cliquant <a href="https://www.cffb.be/category/revue-de-presse/"><strong>ici</strong></a>.</p>
+</div>
+		</aside></div><div class="grid__item"><aside id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-right-container"><ul id="menu-right" class="menu"><li id="menu-item-700" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-700"><a href="https://www.cffb.be/devenez-membre/">Devenez membre</a></li>
+<li id="menu-item-701" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-701"><a href="https://www.cffb.be/faire-un-don/">Faire un don</a></li>
+</ul></div></aside></div><div class="grid__item"><aside id="newsletterwidget-2" class="widget widget_newsletterwidget"><h3 class="widget-title">S&rsquo;inscrire à notre Newsletter</h3><div class="tnp tnp-widget"><form method="post" action="https://www.cffb.be/?na=s">
+
+<input type='hidden' name='nl[]' value='1'>
+<input type="hidden" name="nr" value="widget"><input type="hidden" name="nlang" value=""><div class="tnp-field tnp-field-firstname"><label for="tnp-1">Nom Prénom</label>
+<input class="tnp-name" type="text" name="nn" id="tnp-1" value=""></div>
+<div class="tnp-field tnp-field-email"><label for="tnp-2">Email</label>
+<input class="tnp-email" type="email" name="ne" id="tnp-2" value="" required></div>
+<div class="tnp-field tnp-field-button"><input class="tnp-submit" type="submit" value="S&#039;abonner" >
+</div>
+</form>
+</div></aside></div></div><!-- #secondary -->
+
+	</div><!-- #content -->
+
+	
+		<div class="overlay--search">
+			<div class="overlay__wrapper">
+
+				<form role="search" method="get" class="search-form" action="https://www.cffb.be/">
+				<label>
+					<span class="screen-reader-text">Rechercher :</span>
+					<input type="search" class="search-field" placeholder="Rechercher…" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Rechercher" />
+			</form>
+				<p>Commencez à saisir votre recherche puis pressez Entrée. Pressez Echap pour annuler.</p>
+
+			</div>
+			<button class="overlay__close"><span class="screen-reader-text">Fermer la recherche</span></button>
+		</div>
+
+	
+	<footer id="colophon" class="site-footer">
+
+		
+<div id="supplementary" class="sidebar  sidebar--footer" role="complementary">
+	<aside id="media_image-2" class="widget widget_media_image"><a href="https://www.loterie-nationale.be/"><img width="300" height="114" src="https://www.cffb.be/wp-content/uploads/2022/03/Logo_Loterie_Horizontal_SAFEZONE_FR_2L_RGB-300x114.png" class="image wp-image-4886  attachment-medium size-medium" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://www.cffb.be/wp-content/uploads/2022/03/Logo_Loterie_Horizontal_SAFEZONE_FR_2L_RGB-300x114.png 300w, https://www.cffb.be/wp-content/uploads/2022/03/Logo_Loterie_Horizontal_SAFEZONE_FR_2L_RGB-1024x389.png 1024w, https://www.cffb.be/wp-content/uploads/2022/03/Logo_Loterie_Horizontal_SAFEZONE_FR_2L_RGB-768x292.png 768w, https://www.cffb.be/wp-content/uploads/2022/03/Logo_Loterie_Horizontal_SAFEZONE_FR_2L_RGB-1536x583.png 1536w, https://www.cffb.be/wp-content/uploads/2022/03/Logo_Loterie_Horizontal_SAFEZONE_FR_2L_RGB-2048x777.png 2048w, https://www.cffb.be/wp-content/uploads/2022/03/Logo_Loterie_Horizontal_SAFEZONE_FR_2L_RGB-450x171.png 450w, https://www.cffb.be/wp-content/uploads/2022/03/Logo_Loterie_Horizontal_SAFEZONE_FR_2L_RGB-850x323.png 850w, https://www.cffb.be/wp-content/uploads/2022/03/Logo_Loterie_Horizontal_SAFEZONE_FR_2L_RGB-1000x380.png 1000w, https://www.cffb.be/wp-content/uploads/2022/03/Logo_Loterie_Horizontal_SAFEZONE_FR_2L_RGB-e1646728648602.png 479w" sizes="(max-width: 739px) 94vw, (max-width: 969px) 88vw, (max-width: 1199px) 860px, 850px" /></a></aside><aside id="media_image-4" class="widget widget_media_image"><a href="https://igvm-iefh.belgium.be/fr"><img width="300" height="156" src="https://www.cffb.be/wp-content/uploads/2018/09/IEFH-logo-300x156.jpeg" class="image wp-image-829  attachment-medium size-medium" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://www.cffb.be/wp-content/uploads/2018/09/IEFH-logo-300x156.jpeg 300w, https://www.cffb.be/wp-content/uploads/2018/09/IEFH-logo.jpeg 312w" sizes="(max-width: 739px) 94vw, (max-width: 969px) 88vw, (max-width: 1199px) 860px, 850px" /></a></aside><aside id="media_image-5" class="widget widget_media_image"><a href="http://equal.brussels/"><img width="274" height="70" src="https://www.cffb.be/wp-content/uploads/2018/09/equalbrussels-logo.png" class="image wp-image-830  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" sizes="(max-width: 739px) 94vw, (max-width: 969px) 88vw, (max-width: 1199px) 860px, 850px" /></a></aside><aside id="media_image-6" class="widget widget_media_image"><a href="http://www.wallonie.be/fr/guide/guide-services/15955"><img width="152" height="154" src="https://www.cffb.be/wp-content/uploads/2018/09/wallonie-logob.jpg" class="image wp-image-863  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" sizes="(max-width: 739px) 94vw, (max-width: 969px) 88vw, (max-width: 1199px) 860px, 850px" /></a></aside><aside id="media_image-7" class="widget widget_media_image"><a href="http://www.federation-wallonie-bruxelles.be/"><img width="300" height="66" src="https://www.cffb.be/wp-content/uploads/2018/09/fwb-logo-300x66.png" class="image wp-image-832  attachment-medium size-medium" alt="" loading="lazy" style="max-width: 100%; height: auto;" sizes="(max-width: 739px) 94vw, (max-width: 969px) 88vw, (max-width: 1199px) 860px, 850px" /></a></aside></div><!-- #secondary -->
+
+		<div class="footer-navigation" role="navigation">
+					</div>
+
+	<!--	<div class="site-info" role="contentinfo">
+
+			&copy; CFFB  
+		
+
+		</div>--><!-- .site-info -->
+
+		<div class="back-to-top-wrapper">
+			<a href="#top" class="back-to-top-button"><svg width="10" height="19" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#A13C61" d="M0 0h10v3H0z"/><path d="M5 5.9531L9 12H1l4-6.0469zM4 12h2v7H4v-7z" fill="#FFF"/></g></svg>
+</a>
+		</div>
+
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activer pour trier la colonne ascendante","sort_descending":": activer pour trier la colonne descendante"},"length_menu":"Afficher les saisies _MENU_","empty_table":"Aucune donn\u00e9e disponible sur le tableau","info":"Affichant_START_ \u00e0 _END_ du _TOTAL_ des saisies","info_empty":"Affichant 0 \u00e0 0 de 0 saisies","info_filtered":"(filtr\u00e9 \u00e0 partir du total des saisies _MAX_ )","zero_records":"Aucun enregistrement correspondant trouv\u00e9","search":"Rechercher :","all_selected_text":"Tous les \u00e9l\u00e9ments de cette page ont \u00e9t\u00e9 s\u00e9lectionn\u00e9s. ","select_all_link":"S\u00e9lectionner toutes les pages","clear_selection":"Effacer la s\u00e9lection.","pagination":{"all":"Tout","next":"Suivant","previous":"Pr\u00e9c\u00e9dent"},"select":{"rows":{"0":"","_":": a s\u00e9lectionn\u00e9 %d rang\u00e9es","1":": a s\u00e9lectionn\u00e9 une rang\u00e9e"}},"datepicker":{"dayNames":["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"],"dayNamesShort":["dim","lun","mar","mer","jeu","ven","sam"],"dayNamesMin":["D","L","M","M","J","V","S"],"monthNames":["janvier","f\u00e9vrier","mars","avril","mai","juin","juillet","ao\u00fbt","septembre","octobre","novembre","d\u00e9cembre"],"monthNamesShort":["janvier","f\u00e9vrier","mars","avril","mai","juin","juillet","ao\u00fbt","septembre","octobre","novembre","d\u00e9cembre"],"monthNamesMin":["Jan","F\u00e9v","Mar","Avr","Mai","Juin","Juil","Ao\u00fbt","Sep","Oct","Nov","D\u00e9c"],"nextText":"Suivant","prevText":"Pr\u00e9c\u00e9dent","currentText":"Aujourd&#039;hui","closeText":"Termin\u00e9","today":"Aujourd&#039;hui","clear":"Clear"}};/* ]]> */ </script><script type='text/javascript' id='apss-frontend-mainjs-js-extra'>
+/* <![CDATA[ */
+var frontend_ajax_object = {"ajax_url":"https:\/\/www.cffb.be\/wp-admin\/admin-ajax.php","ajax_nonce":"4382459063"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.cffb.be/wp-content/plugins/accesspress-social-share/js/frontend.js?ver=4.5.6' id='apss-frontend-mainjs-js'></script>
+<script type='text/javascript' src='https://www.cffb.be/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.4' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.cffb.be\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.cffb.be/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.4' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.cffb.be/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://www.cffb.be/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<script type='text/javascript' src='https://www.cffb.be/wp-includes/js/hoverIntent.min.js?ver=1.10.2' id='hoverIntent-js'></script>
+<script type='text/javascript' src='https://www.cffb.be/wp-content/themes/silk-lite/assets/js/velocity.js?ver=1.1.0' id='velocity-js'></script>
+<script type='text/javascript' src='https://www.cffb.be/wp-content/themes/silk-lite/assets/js/main.js?ver=1.5.1' id='silklite-scripts-js'></script>
+<script async type='text/javascript' id='cookie-notice-front-js-before'>
+var cnArgs = {"ajaxUrl":"https:\/\/www.cffb.be\/wp-admin\/admin-ajax.php","nonce":"81f6be1606","hideEffect":"fade","position":"bottom","onScroll":false,"onScrollOffset":100,"onClick":true,"cookieName":"cookie_notice_accepted","cookieTime":86400,"cookieTimeRejected":86400,"globalCookie":false,"redirection":false,"cache":false,"revokeCookies":false,"revokeCookiesOpt":"automatic"};
+</script>
+<script async type='text/javascript' src='https://www.cffb.be/wp-content/plugins/cookie-notice/js/front.min.js?ver=2.4.7' id='cookie-notice-front-js'></script>
+	<script>
+		/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	
+		<!-- Cookie Notice plugin v2.4.7 by Hu-manity.co https://hu-manity.co/ -->
+		<div id="cookie-notice" role="dialog" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: #c4c4c4d4"><div class="cookie-notice-container" style="color: #cc0084"><span id="cn-notice-text" class="cn-text-container">Nous utilisons des cookies pour vous garantir la meilleure expérience sur notre site web. Si vous continuez à utiliser ce site, nous supposerons que vous en êtes satisfait.e.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button" aria-label="Ok" style="background-color: #00a99d">Ok</a><a href="#" id="cn-refuse-cookie" data-cookie-set="refuse" class="cn-set-cookie cn-button" aria-label="Non" style="background-color: #00a99d">Non</a><a href="https://www.cffb.be/declaration-relative-a-la-protection-de-la-vie-privee/" target="_blank" id="cn-more-info" class="cn-more-info cn-button" aria-label="Politique de confidentialité" style="background-color: #00a99d">Politique de confidentialité</a></span><span id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" title="Non"></span></div>
+			
+		</div>
+		<!-- / Cookie Notice plugin -->
+
+
+
+</body>
+</html>

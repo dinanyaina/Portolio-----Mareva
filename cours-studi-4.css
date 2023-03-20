@@ -1,0 +1,78 @@
+.navbar-brand{
+    color: green;
+}
+nav{ 
+    width: auto;
+    position: fixed;
+    background-color: whitesmoke;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.card-title{
+    padding:2cm;
+    
+}
+.lead {
+    text-align: center;
+}
+
+.card-evenements{
+    padding:3cm;
+
+}
+.header-accueil{
+    box-shadow: 10px 5px 5px grey;
+}
+
+.row{
+    padding:2cm;
+}
+
+.display-1{
+    text-decoration-color: rgb(247, 242, 233);
+    text-align: center;
+    text-decoration: solid;
+    text-justify: auto;
+    padding: 1cm;
+    
+}
+footer{
+    text-align: center;
+    bottom:0;
+    width:100%;
+    display: inline-block;
+    vertical-align: top;
+    padding:5cm;
+    
+
+}
+.sticky-footer{
+    background-color: rgb(222, 201, 170);
+    width: auto;
+}
+h1{
+    color: green;
+}
+.card-evenements{
+    padding:5cm;
+}
+.evenements-form{
+    padding:1cm;
+    
+}
+.contact-evenements-h5{
+    color:green;
+}
+.card-text-1{
+    text-decoration: solid;
+}
+
+/*pour la partie évènements- l'entête des cartes*/
+.card-title-evenements{
+    background-color:rgb(126, 85, 92);
+    
+    
+}
